@@ -1,4 +1,3 @@
-'''
 # 🧪 Software Testing Analysis – Joda-Time
 
 This project was developed as part of **CPEN 422 – Software Testing** at the University of British Columbia by **Buland Choudhary** and **Gurjas Singh Oberoi**. It demonstrates practical skills in automated test generation, coverage analysis, and evaluation using state-of-the-art tools and AI models.
@@ -98,4 +97,4 @@ Using **ChatGPT**, we experimented with various prompting strategies:
 - **Gurjas Singh Oberoi**
 
 ---
-'''
+
